@@ -4,7 +4,7 @@ import Body from './components/body';
 
 function App() {
   return (
-    <div style={{ backgroundColor: '#ade8f4', height: '100%' }}>
+    <div>
       <ProminentAppBar />
       <Body />
     </div>
